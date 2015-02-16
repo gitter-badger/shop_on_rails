@@ -2,6 +2,8 @@
 
 ## shop_on_rails
 
+[![Join the chat at https://gitter.im/shoponrails/shop_on_rails](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/shoponrails/shop_on_rails?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The installation process: https://gist.github.com/greendog/4985240
 
 Some screenshots:
